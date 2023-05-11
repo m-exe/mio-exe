@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maÿ</h1>
 <h3 align="center">A student UI designer from France.</h3>
 
-<iframe src="https://gifer.com/embed/OyRT" width=480 height=342.720 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img src= "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width=480 height=342.720 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
