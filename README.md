@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maÿ</h1>
-<h3 align="center">An student UI designer from France.</h3>
+<h3 align="center">A student UI designer from France.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
