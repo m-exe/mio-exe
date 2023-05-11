@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maÿ</h1>
+<h1 align="center">Hi 👋, I'm May but you can call me Mio.</h1>
 <h3 align="center">A student UI designer from France.</h3>
 
 <p align="center"> <img src= "https://media.tenor.com/AL_kKT7aS9IAAAAC/serial-experiments-lain-yasuo-iwakura.gif" width=480 height=342.720 frameBorder="0" allowFullScreen></p>
